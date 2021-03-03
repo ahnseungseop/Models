@@ -47,7 +47,7 @@ plt.legend(fontsize=14)
 
 #%%
 
-# NuSVR : SVR 보다 오차에 Rubust 한 SVR 모델
+# NuSVR
 # Compare SVR to NuSVR
 
 from sklearn.svm import NuSVR
